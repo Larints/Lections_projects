@@ -9,7 +9,7 @@ Console. WriteLine("Введите скорость собаки: "); // Про�
 string dogSpeed = Console.ReadLine(); // Вводим значение скорости собаки
 int dogS = Convert.ToInt32(dogSpeed); // Конвертируем скорость собаки в числовое значение
 Console. WriteLine("Введите расстояние между друзьями (в метрах):"); 
-string distance = Console. ReadLine();
+string distance = Console.ReadLine();
 int dc = Convert.ToInt32(distance);
 int count = 0;
 int time = 0;
